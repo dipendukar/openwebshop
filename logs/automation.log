@@ -1,0 +1,6 @@
+12:58:31 INFO  [TestNG-PoolService-1] stepDefClass - Navigated to site url
+12:58:31 INFO  [TestNG-PoolService-1] stepDefClass - login link is clicked
+12:58:31 INFO  [TestNG-PoolService-1] stepDefClass - Verify login page titleDemo Web Shop. Login
+12:58:31 INFO  [TestNG-PoolService-1] stepDefClass - The username is passed: sample123@outlook.comThe password is passed: sample123
+12:58:34 INFO  [TestNG-PoolService-1] stepDefClass - Logout successful now return to login page
+12:58:34 INFO  [TestNG-PoolService-1] stepDefClass - The username is passed: sample1234@outlook.comThe password is passed: sample12345
